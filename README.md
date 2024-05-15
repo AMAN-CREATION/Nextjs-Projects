@@ -6,7 +6,11 @@ Welcome to my Next.js projects repository! This repository contains a collection
 
 To get started with these projects, follow these steps:
 
+<<<<<<< HEAD
 1. Clone the repository: `git clone https://github.com/AMAN-CREATION/Nextjs-Projects.git`
+=======
+1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+>>>>>>> 22878779ba42a5d46836d9b07f3eecbb4721e5ed
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: `npm install` or `yarn install`
 4. Start the development server: `npm run dev` or `yarn dev`
@@ -21,3 +25,7 @@ If you'd like to contribute to any of these projects, please follow these guidel
 3. Make your changes and commit them: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature`
 5. Submit a pull request
+<<<<<<< HEAD
+=======
+
+>>>>>>> 22878779ba42a5d46836d9b07f3eecbb4721e5ed
